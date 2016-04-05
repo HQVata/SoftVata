@@ -9,6 +9,7 @@ int main()
     cout << "You have got to use git." << endl;
     cout << "Now you must do you first commit." << endl;
     cout << "Good Luck!" << endl;
+    cout << "Good Job!"
     return 0;
 }
 
