@@ -4,7 +4,7 @@ using namespace std;
 
 int main()
 {
-    cout << "Hello World!" << endl;
+    cout << "Hello Fucking World!" << endl;
     cout << "My congratulations!" << endl;
     cout << "You have got to use git." << endl;
     cout << "Now you must do you first commit." << endl;
