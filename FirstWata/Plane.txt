@@ -1,0 +1,24 @@
+Possible directions of development
+
+**Games
+****Simple games with minimalist graphics
+     <Getting the basic skills of writing programs and working with classes>
+******Network sea fight, Tic Tac toe
+       <Getting the skills to work with network and writing the client server applications>
+****Games with simple graphics
+******Creating a game engine OpenGL, OpenAL
+******The study of existing engines
+****Mobile application
+     <Getting mobile development experience>
+****Development of the concept of the game
+     <Cosmic real-time strategy>
+**Neural networks and machine learning
+****Creating own neural network
+     <Studing of the fundamental principles of neural networks>
+****Studing exist neural network libs
+****Works with neural network
+******Image processing
+********Image Enhancement
+******Processing other types of data
+**Programmers competitions
+   <Completing quests for the chance to win a prize and fame>
