@@ -22,3 +22,5 @@ Possible directions of development
 ******Processing other types of data
 **Programmers competitions
    <Completing quests for the chance to win a prize and fame>
+**Database
+   <very sought-after skill>
