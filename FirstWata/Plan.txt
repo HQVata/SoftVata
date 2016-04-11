@@ -24,3 +24,7 @@ Possible directions of development
    <Completing quests for the chance to win a prize and fame>
 **Database
    <very sought-after skill>
+**Data visualization
+**Plugins
+**Study of testing tools
+**Testing programs and search for vulnerabilities
